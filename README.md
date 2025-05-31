@@ -1,31 +1,22 @@
 
 
-Hi there! 👋 I'm Pavanisai an aspiring data analyst passionate about turning data into actionable insights. 
-I'm currently learning key tools and techniques including Excel, SQL, Power BI, and Python.
+<h1 align="center">Hi 👋, I'm Pavanisai Karri</h1>
+<h3 align="center">An aspiring Data Analyst passionate about turning data into actionable insights.</h3>
 
----
-📁 This repository showcases my journey through real-world projects as 
-I build hands-on experience and deepen my understanding of data analytics.
+- 🌱 I’m currently learning **Excel, SQL, Power BI, and Python.**
 
-🚀 I'm passionate about using data to solve real business problems and always looking for opportunities 
-to grow and apply my skills in meaningful ways.
+- 👨‍💻 All of my projects are available at [https://codebasics.io/portfolio/Pavanisai-Karri](https://codebasics.io/portfolio/Pavanisai-Karri)
 
----
+- 💬 Ask me about **Data**
 
-## 🤝 Connect With Me
+- 📫 How to reach me **karripavanisai@gmail.com**
 
-I’m always open to feedback, collaboration, and new opportunities! Feel free to reach out:
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/pavanisai-karri/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/pavanisai-karri/" height="30" width="40" /></a>
+</p>
 
-- **LinkedIn:** [https://www.linkedin.com/in/pavanisai-karri/]  
-- **Email:** karripavanisai@gmail.com
-- **Portfolio Website:** [https://codebasics.io/portfolio/Pavanisai-Karri]
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
----
-
-Thank you for stopping by! Let's turn data into impact together. 🚀
-
----
-
-*“Data is the new oil, and I’m refining it one analysis at a time.”*  
-— Pavanisai Karri
 
